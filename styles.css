@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Montserrat:ital,wght@1,200&display=swap');
+
+body {    
+    background: hsl(0, 0%, 97%);
+    font-family: Monserrat;
+    font-size: 18px;
+}
+
+#title {
+    font-size: 60px;
+    color: #272b63;
+    text-align: center;
+    font-family: 'Bungee Spice', 'Times New Roman', cursive;
+}
+
+.container {
+    padding-left: 1%;  
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 26px;
+    color: #c0783d;
+}
+
+#name {
+    font-size: 40px;
+    font-weight: 900;
+    color: #a15e26;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 25px;
+}
